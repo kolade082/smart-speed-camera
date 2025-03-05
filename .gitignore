@@ -1,0 +1,7 @@
+echo ".ipynb_checkpoints/" >> .gitignore
+echo "video.mp4" >> .gitignore
+echo "video3.mp4" >> .gitignore
+echo "video5.mp4" >> .gitignore
+echo "video2.mp4" >> .gitignore
+echo "video4.mp4" >> .gitignore
+echo "video.MOV" >> .gitignore
